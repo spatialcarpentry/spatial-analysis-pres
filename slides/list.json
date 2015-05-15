@@ -1,5 +1,10 @@
-[
-    "index.md",
+[ 
+  {
+    "filename":  "index.md",
+    "attr": {
+      "data-background": "https://github.com/spatialcarpentry/basics-pres/blob/master/images/spatial-data.jpg?raw=true"
+    }
+  },
     "overview.md",
     [
       "what/1.md",
@@ -14,7 +19,12 @@
       "what/5.md",
       "what/6.md"
     ],
-    [ 
+    [
+      {
+        "attr": {
+          "data-background":  "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Saint-H%C3%A9lier_-_Saint-Helier_Marina_coordinates.JPG/1280px-Saint-H%C3%A9lier_-_Saint-Helier_Marina_coordinates.JPG"
+        }
+      },
       "coords/1.md",
       "coords/2.md",
       "coords/3.md",
@@ -25,8 +35,14 @@
       "data/1.md",
       "data/2.md",
       "data/3.md",
+      "data/7.md",
       "data/4.md",
       "data/5.md",
+      {
+        "attr" : {
+          "data-background": "https://github.com/spatialcarpentry/basics-pres/blob/master/images/minecraft.jpg?raw=true"
+         }
+      },
       "data/6.md"
     ],
     [
@@ -36,5 +52,6 @@
       "projections/4.md",
       "projections/5.md",
       "projections/6.md"
-    ]
+    ],
+    "references.md"
 ]

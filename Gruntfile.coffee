@@ -99,7 +99,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:spatialcarpentry/basics-pres.git'
+                    remote: 'git@github.com:spatialcarpentry/spatial-analysis-pres.git'
                     branch: 'gh-pages'
         
 

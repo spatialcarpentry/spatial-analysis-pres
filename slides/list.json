@@ -1,57 +1,28 @@
-[ 
-  {
-    "filename":  "index.md",
-    "attr": {
-      "data-background": "https://github.com/spatialcarpentry/basics-pres/blob/master/images/spatial-data.jpg?raw=true"
-    }
-  },
-    "overview.md",
-    [
-      "what/1.md",
-      {
-        "filename": "what/2.md",
-        "attr" : {
-          "data-background": "https://github.com/spatialcarpentry/basics-pres/blob/master/images/Messier_74_by_HST.jpg?raw=true"
-        }
-      },
-      "what/3.md",
-      "what/4.md",
-      "what/5.md",
-      "what/6.md"
-    ],
-    [
-      {
-        "attr": {
-          "data-background":  "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Saint-H%C3%A9lier_-_Saint-Helier_Marina_coordinates.JPG/1280px-Saint-H%C3%A9lier_-_Saint-Helier_Marina_coordinates.JPG"
-        }
-      },
-      "coords/1.md",
-      "coords/2.md",
-      "coords/3.md",
-      "coords/4.md",
-      "coords/5.md"
-    ],
-    [
-      "data/1.md",
-      "data/2.md",
-      "data/3.md",
-      "data/7.md",
-      "data/4.md",
-      "data/5.md",
-      {
-        "attr" : {
-          "data-background": "https://github.com/spatialcarpentry/basics-pres/blob/master/images/minecraft.jpg?raw=true"
-         }
-      },
-      "data/6.md"
-    ],
-    [
-      "projections/1.md",
-      "projections/2.md",
-      "projections/3.md",
-      "projections/4.md",
-      "projections/5.md",
-      "projections/6.md"
-    ],
-    "references.md"
-]
+["index.md",
+  "overview.md",
+  [
+  "components/1.md",
+  "components/2.md",
+  "components/3.md",
+  "components/4.md",
+  "components/5.md",
+  "components/6.md"
+  ],
+  [
+    "dependence/1.md"
+  ],
+  [
+    
+    "methods/1.md",
+    {
+      "attr": {
+        "data-background" : "http://upload.wikimedia.org/wikipedia/commons/a/a1/2008Computex_Day5_the_Traffic_at_Song-shou_Song-chih_Intersection.jpg"
+      }
+    },
+    "methods/intersect.md",
+    "methods/2.md",
+    "methods/3.md"
+  ],
+  "references.md"
+
+  ]

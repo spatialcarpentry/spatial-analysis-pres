@@ -2,7 +2,5 @@
 
 ----
 
-  - What is spatial?
-  - Spatial Data
-  - Mapping the world
-  - Projections
+- What can be analyzed spatially?
+- What are the available methods?

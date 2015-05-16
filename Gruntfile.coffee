@@ -32,14 +32,14 @@ module.exports = (grunt) ->
                 tasks: ['jshint']
         
             sass:
-                files: ['css/source/theme.scss']
+                files: ['css/theme/source/night.scss']
                 tasks: ['sass']
 
         sass:
 
             theme:
                 files:
-                    'css/theme.css': 'css/source/theme.scss'
+                    'css/theme.css': 'css/theme/source/night.scss'
         
         connect:
 
@@ -99,7 +99,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:spatialcarpentry/spatial-analysis-pres.git'
+                    remote: 'git@github.com:spatialcarpentry/basics-pres.git'
                     branch: 'gh-pages'
         
 

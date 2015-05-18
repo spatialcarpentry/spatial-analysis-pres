@@ -4,13 +4,12 @@
   "components/1.md",
   "components/2.md",
   "components/3.md",
-  "components/4.md",
-  "components/5.md",
-  "components/6.md"
+  "components/4.md"
   ],
   [
     "dependence/1.md"
   ],
+  "tests.md",
   [
     
     "methods/1.md",
@@ -19,9 +18,11 @@
         "data-background" : "http://upload.wikimedia.org/wikipedia/commons/a/a1/2008Computex_Day5_the_Traffic_at_Song-shou_Song-chih_Intersection.jpg"
       }
     },
-    "methods/intersect.md",
-    "methods/2.md",
-    "methods/3.md"
+    "methods/intersect.md"
+  ],
+  [
+  "buffer/buffer.md",
+  "buffer/2.md"
   ],
   "references.md"
 

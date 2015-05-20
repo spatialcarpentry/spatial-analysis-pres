@@ -1,5 +1,7 @@
-## Spatial Relationships
+## Spatial Relations
 
 ----
 
-### What can we use to check them?
+  - Distance
+  - Topology
+  - Direction

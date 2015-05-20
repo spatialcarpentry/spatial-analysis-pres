@@ -2,5 +2,5 @@
 
 ----
 
-- What can be analyzed spatially?
-- What are the available methods?
+- Elements of  spatial analysis
+- A few basic methods

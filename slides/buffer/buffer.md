@@ -1,4 +1,4 @@
-## Buffer
+<h1 id="buffer-lg">Buffer</h1>
 
 -----
 
